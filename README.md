@@ -37,6 +37,13 @@ use the following command:
 Make sure that the above command uses the correct version of the tar file.
 
 
+#### Installing PostreSQL
+
+Version `11.2`
+
+To install PostreSQL, please you can click this [link](https://www.postgresql.org/download/macosx/)
+
+
 ## How to run
 
 ```
